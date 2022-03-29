@@ -42,6 +42,7 @@ Coding plan :
 1. Dessiner la base de données avec toutes les relations nécessaires
 2. Créer le projet sur GitHub, le cloner localement.
 3. Créer le projet rails en question
+3.5 Créer les modeles
 4. Créer les migrations
 5. Seeder la base de données
 6. Faire le form de création de card
